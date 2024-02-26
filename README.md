@@ -1,7 +1,7 @@
 ##  Hi, I’m Onésimo antónio 👋
 [![INTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://www.estudoneo5@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/on%C3%A9simo-ant%C3%B3nio-6595002a1/)
+
 
 ![Onésimo GitHub stats](https://github-readme-stats.vercel.app/api?username=Onesimoantonio&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onesimoantonio)](https://github.com/Onesimoantonio/github-readme-stats)
