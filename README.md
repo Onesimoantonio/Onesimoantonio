@@ -15,7 +15,7 @@
   <img  align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-- 💞️ I’m looking  for oportunity to put in text my knowledge.
+- 💞️ I’m looking  for oportunity to put in test my knowledge.
 <!---- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
