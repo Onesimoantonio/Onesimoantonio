@@ -1,5 +1,5 @@
 ##  Hi, I’m Onésimo antónio 👋
-[![INTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![INTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseneo83/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/on%C3%A9simo-ant%C3%B3nio-6595002a1/)
 
 
@@ -15,7 +15,7 @@
   <img  align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-- 💞️ I’m looking  for oportunity to put in test my knowledge.
+- 💞️ I’m.
 <!---- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
